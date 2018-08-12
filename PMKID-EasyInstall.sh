@@ -18,7 +18,7 @@ sudo apt-get install libssl-dev
 sleep 2
 sudo apt-get install zlib1g-dev
 sleep 2
-sudo at-get install libpcap-dev
+sudo apt-get install libpcap-dev
 sleep 2
 
 sudo git clone https://github.com/ZerBea/hcxtools.git
